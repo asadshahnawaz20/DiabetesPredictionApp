@@ -61,15 +61,6 @@ This project demonstrates how to build a **complete machine learning workflow**:
 
 ---
 
-# **Project Screenshot**
-
-*(Add your app screenshot here)*
-
-```
-![](screenshot.jpg)
-```
-
----
 
 # **Dataset**
 
